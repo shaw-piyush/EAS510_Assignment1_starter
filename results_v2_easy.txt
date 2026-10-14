@@ -1,0 +1,419 @@
+Processing: modified_00_bright_enhanced.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.98 -> 25/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.88 -> 22/25 points
+Rule 3 (Template): FIRED - Match score 0.99 -> 40/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 87/100 -> MATCH to original_00
+
+Processing: modified_00_compressed.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.67 -> 17/25 points
+Rule 2 (Histogram): FIRED - Correlation 1.00 -> 25/25 points
+Rule 3 (Template): FIRED - Match score 1.00 -> 40/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 82/100 -> MATCH to original_00
+
+Processing: modified_00_crop_25pct.jpg
+Rule 1 (Metadata): NO MATCH - Size ratio 0.07 -> 0/25 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.36 -> 0/25 points
+Rule 3 (Template): NO MATCH - Match score 0.00 -> 0/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 0/100 -> REJECTED
+
+Processing: modified_00_crop_50pct.jpg
+Rule 1 (Metadata): NO MATCH - Size ratio 0.27 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.73 -> 18/25 points
+Rule 3 (Template): NO MATCH - Match score 0.10 -> 0/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 18/100 -> REJECTED
+
+Processing: modified_00_crop_75pct.jpg
+Rule 1 (Metadata): NO MATCH - Size ratio 0.60 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.84 -> 21/25 points
+Rule 3 (Template): NO MATCH - Match score 0.21 -> 0/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 21/100 -> REJECTED
+
+Processing: modified_00_format_png.png
+Rule 1 (Metadata): NO MATCH - Size ratio 0.57 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 1.00 -> 25/25 points
+Rule 3 (Template): FIRED - Match score 1.00 -> 40/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 65/100 -> MATCH to original_00
+
+Processing: modified_01_bright_enhanced.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.98 -> 24/25 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.28 -> 0/25 points
+Rule 3 (Template): FIRED - Match score 1.00 -> 40/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 64/100 -> MATCH to original_01
+
+Processing: modified_01_compressed.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.68 -> 17/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.99 -> 25/25 points
+Rule 3 (Template): FIRED - Match score 1.00 -> 40/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 82/100 -> MATCH to original_01
+
+Processing: modified_01_crop_25pct.jpg
+Rule 1 (Metadata): NO MATCH - Size ratio 0.10 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.86 -> 22/25 points
+Rule 3 (Template): NO MATCH - Match score 0.01 -> 0/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 22/100 -> REJECTED
+
+Processing: modified_01_crop_50pct.jpg
+Rule 1 (Metadata): NO MATCH - Size ratio 0.30 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.99 -> 25/25 points
+Rule 3 (Template): NO MATCH - Match score 0.08 -> 0/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 25/100 -> REJECTED
+
+Processing: modified_01_crop_75pct.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.64 -> 16/25 points
+Rule 2 (Histogram): FIRED - Correlation 1.00 -> 25/25 points
+Rule 3 (Template): NO MATCH - Match score 0.29 -> 0/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 41/100 -> REJECTED
+
+Processing: modified_01_format_png.png
+Rule 1 (Metadata): NO MATCH - Size ratio 0.56 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 1.00 -> 25/25 points
+Rule 3 (Template): FIRED - Match score 1.00 -> 40/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 65/100 -> MATCH to original_01
+
+Processing: modified_02_bright_enhanced.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.99 -> 25/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.84 -> 21/25 points
+Rule 3 (Template): FIRED - Match score 0.99 -> 40/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 86/100 -> MATCH to original_02
+
+Processing: modified_02_compressed.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.70 -> 18/25 points
+Rule 2 (Histogram): FIRED - Correlation 1.00 -> 25/25 points
+Rule 3 (Template): FIRED - Match score 1.00 -> 40/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 83/100 -> MATCH to original_02
+
+Processing: modified_02_crop_25pct.jpg
+Rule 1 (Metadata): NO MATCH - Size ratio 0.06 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.89 -> 22/25 points
+Rule 3 (Template): NO MATCH - Match score 0.00 -> 0/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 22/100 -> REJECTED
+
+Processing: modified_02_crop_50pct.jpg
+Rule 1 (Metadata): NO MATCH - Size ratio 0.23 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.95 -> 24/25 points
+Rule 3 (Template): NO MATCH - Match score 0.00 -> 0/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 24/100 -> REJECTED
+
+Processing: modified_02_crop_75pct.jpg
+Rule 1 (Metadata): NO MATCH - Size ratio 0.57 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.98 -> 25/25 points
+Rule 3 (Template): NO MATCH - Match score 0.05 -> 0/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 25/100 -> REJECTED
+
+Processing: modified_02_format_png.png
+Rule 1 (Metadata): NO MATCH - Size ratio 0.57 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 1.00 -> 25/25 points
+Rule 3 (Template): FIRED - Match score 1.00 -> 40/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 65/100 -> MATCH to original_02
+
+Processing: modified_03_bright_enhanced.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.98 -> 24/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.97 -> 24/25 points
+Rule 3 (Template): FIRED - Match score 1.00 -> 40/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 88/100 -> MATCH to original_03
+
+Processing: modified_03_compressed.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.65 -> 17/25 points
+Rule 2 (Histogram): FIRED - Correlation 1.00 -> 25/25 points
+Rule 3 (Template): FIRED - Match score 1.00 -> 40/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 82/100 -> MATCH to original_03
+
+Processing: modified_03_crop_25pct.jpg
+Rule 1 (Metadata): NO MATCH - Size ratio 0.07 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.70 -> 18/25 points
+Rule 3 (Template): NO MATCH - Match score 0.31 -> 0/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 18/100 -> REJECTED
+
+Processing: modified_03_crop_50pct.jpg
+Rule 1 (Metadata): NO MATCH - Size ratio 0.28 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.86 -> 22/25 points
+Rule 3 (Template): NO MATCH - Match score 0.18 -> 0/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 22/100 -> REJECTED
+
+Processing: modified_03_crop_75pct.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.82 -> 20/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.59 -> 15/25 points
+Rule 3 (Template): NO MATCH - Match score 0.23 -> 0/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 35/100 -> REJECTED
+
+Processing: modified_03_format_png.png
+Rule 1 (Metadata): NO MATCH - Size ratio 0.56 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 1.00 -> 25/25 points
+Rule 3 (Template): FIRED - Match score 1.00 -> 40/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 65/100 -> MATCH to original_03
+
+Processing: modified_04_bright_enhanced.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.98 -> 24/25 points
+Rule 2 (Histogram): FIRED - Correlation 1.00 -> 25/25 points
+Rule 3 (Template): FIRED - Match score 1.00 -> 40/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 89/100 -> MATCH to original_04
+
+Processing: modified_04_compressed.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.70 -> 18/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.99 -> 25/25 points
+Rule 3 (Template): FIRED - Match score 1.00 -> 40/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 83/100 -> MATCH to original_04
+
+Processing: modified_04_crop_25pct.jpg
+Rule 1 (Metadata): NO MATCH - Size ratio 0.07 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 1.00 -> 25/25 points
+Rule 3 (Template): NO MATCH - Match score 0.00 -> 0/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 25/100 -> REJECTED
+
+Processing: modified_04_crop_50pct.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.65 -> 17/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.59 -> 15/25 points
+Rule 3 (Template): NO MATCH - Match score 0.07 -> 0/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 32/100 -> REJECTED
+
+Processing: modified_04_crop_75pct.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.95 -> 24/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.77 -> 19/25 points
+Rule 3 (Template): NO MATCH - Match score 0.03 -> 0/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 43/100 -> REJECTED
+
+Processing: modified_04_format_png.png
+Rule 1 (Metadata): NO MATCH - Size ratio 0.58 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 1.00 -> 25/25 points
+Rule 3 (Template): FIRED - Match score 1.00 -> 40/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 65/100 -> MATCH to original_04
+
+Processing: modified_05_bright_enhanced.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.98 -> 24/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.58 -> 14/25 points
+Rule 3 (Template): FIRED - Match score 1.00 -> 40/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 78/100 -> MATCH to original_05
+
+Processing: modified_05_compressed.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.67 -> 17/25 points
+Rule 2 (Histogram): FIRED - Correlation 1.00 -> 25/25 points
+Rule 3 (Template): FIRED - Match score 1.00 -> 40/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 82/100 -> MATCH to original_05
+
+Processing: modified_05_crop_25pct.jpg
+Rule 1 (Metadata): NO MATCH - Size ratio 0.08 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.70 -> 18/25 points
+Rule 3 (Template): NO MATCH - Match score 0.00 -> 0/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 18/100 -> REJECTED
+
+Processing: modified_05_crop_50pct.jpg
+Rule 1 (Metadata): NO MATCH - Size ratio 0.28 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.93 -> 23/25 points
+Rule 3 (Template): NO MATCH - Match score 0.00 -> 0/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 23/100 -> REJECTED
+
+Processing: modified_05_crop_75pct.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.61 -> 15/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.99 -> 25/25 points
+Rule 3 (Template): NO MATCH - Match score 0.11 -> 0/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 40/100 -> REJECTED
+
+Processing: modified_05_format_png.png
+Rule 1 (Metadata): NO MATCH - Size ratio 0.56 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 1.00 -> 25/25 points
+Rule 3 (Template): FIRED - Match score 1.00 -> 40/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 65/100 -> MATCH to original_05
+
+Processing: modified_06_bright_enhanced.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.97 -> 24/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.96 -> 24/25 points
+Rule 3 (Template): FIRED - Match score 1.00 -> 40/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 88/100 -> MATCH to original_06
+
+Processing: modified_06_compressed.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.68 -> 17/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.98 -> 24/25 points
+Rule 3 (Template): FIRED - Match score 1.00 -> 40/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 81/100 -> MATCH to original_06
+
+Processing: modified_06_crop_25pct.jpg
+Rule 1 (Metadata): NO MATCH - Size ratio 0.07 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.97 -> 24/25 points
+Rule 3 (Template): NO MATCH - Match score 0.07 -> 0/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 24/100 -> REJECTED
+
+Processing: modified_06_crop_50pct.jpg
+Rule 1 (Metadata): NO MATCH - Size ratio 0.27 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.98 -> 24/25 points
+Rule 3 (Template): NO MATCH - Match score 0.18 -> 0/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 24/100 -> REJECTED
+
+Processing: modified_06_crop_75pct.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.61 -> 15/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.99 -> 25/25 points
+Rule 3 (Template): NO MATCH - Match score 0.23 -> 0/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 40/100 -> REJECTED
+
+Processing: modified_06_format_png.png
+Rule 1 (Metadata): NO MATCH - Size ratio 0.56 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 1.00 -> 25/25 points
+Rule 3 (Template): FIRED - Match score 1.00 -> 40/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 65/100 -> MATCH to original_06
+
+Processing: modified_07_bright_enhanced.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.99 -> 25/25 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.00 -> 0/25 points
+Rule 3 (Template): FIRED - Match score 0.99 -> 40/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 65/100 -> MATCH to original_07
+
+Processing: modified_07_compressed.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.68 -> 17/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.99 -> 25/25 points
+Rule 3 (Template): FIRED - Match score 1.00 -> 40/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 82/100 -> MATCH to original_07
+
+Processing: modified_07_crop_25pct.jpg
+Rule 1 (Metadata): NO MATCH - Size ratio 0.12 -> 0/25 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.39 -> 0/25 points
+Rule 3 (Template): FIRED - Match score 0.43 -> 17/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 17/100 -> REJECTED
+
+Processing: modified_07_crop_50pct.jpg
+Rule 1 (Metadata): NO MATCH - Size ratio 0.29 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.82 -> 21/25 points
+Rule 3 (Template): NO MATCH - Match score 0.00 -> 0/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 21/100 -> REJECTED
+
+Processing: modified_07_crop_75pct.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.82 -> 21/25 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.41 -> 0/25 points
+Rule 3 (Template): FIRED - Match score 0.44 -> 18/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 39/100 -> REJECTED
+
+Processing: modified_07_format_png.png
+Rule 1 (Metadata): NO MATCH - Size ratio 0.59 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 1.00 -> 25/25 points
+Rule 3 (Template): FIRED - Match score 1.00 -> 40/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 65/100 -> MATCH to original_07
+
+Processing: modified_08_bright_enhanced.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.99 -> 25/25 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.00 -> 0/25 points
+Rule 3 (Template): FIRED - Match score 0.99 -> 40/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 65/100 -> MATCH to original_08
+
+Processing: modified_08_compressed.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.71 -> 18/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.96 -> 24/25 points
+Rule 3 (Template): FIRED - Match score 1.00 -> 40/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 82/100 -> MATCH to original_08
+
+Processing: modified_08_crop_25pct.jpg
+Rule 1 (Metadata): NO MATCH - Size ratio 0.08 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.52 -> 13/25 points
+Rule 3 (Template): NO MATCH - Match score 0.00 -> 0/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 13/100 -> REJECTED
+
+Processing: modified_08_crop_50pct.jpg
+Rule 1 (Metadata): NO MATCH - Size ratio 0.32 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.80 -> 20/25 points
+Rule 3 (Template): NO MATCH - Match score 0.00 -> 0/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 20/100 -> REJECTED
+
+Processing: modified_08_crop_75pct.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.66 -> 17/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.94 -> 23/25 points
+Rule 3 (Template): NO MATCH - Match score 0.28 -> 0/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 40/100 -> REJECTED
+
+Processing: modified_08_format_png.png
+Rule 1 (Metadata): NO MATCH - Size ratio 0.57 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 1.00 -> 25/25 points
+Rule 3 (Template): FIRED - Match score 1.00 -> 40/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 65/100 -> MATCH to original_08
+
+Processing: modified_09_bright_enhanced.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.98 -> 24/25 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.45 -> 0/25 points
+Rule 3 (Template): FIRED - Match score 0.99 -> 40/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 64/100 -> MATCH to original_09
+
+Processing: modified_09_compressed.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.65 -> 16/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.99 -> 25/25 points
+Rule 3 (Template): FIRED - Match score 1.00 -> 40/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 81/100 -> MATCH to original_09
+
+Processing: modified_09_crop_25pct.jpg
+Rule 1 (Metadata): NO MATCH - Size ratio 0.03 -> 0/25 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.00 -> 0/25 points
+Rule 3 (Template): NO MATCH - Match score 0.10 -> 0/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 0/100 -> REJECTED
+
+Processing: modified_09_crop_50pct.jpg
+Rule 1 (Metadata): NO MATCH - Size ratio 0.28 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.71 -> 18/25 points
+Rule 3 (Template): FIRED - Match score 0.40 -> 16/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 34/100 -> REJECTED
+
+Processing: modified_09_crop_75pct.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.63 -> 16/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.91 -> 22/25 points
+Rule 3 (Template): FIRED - Match score 0.63 -> 25/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 63/100 -> MATCH to original_09
+
+Processing: modified_09_format_png.png
+Rule 1 (Metadata): NO MATCH - Size ratio 0.56 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 1.00 -> 25/25 points
+Rule 3 (Template): FIRED - Match score 1.00 -> 40/40 points
+Rule 4 (Edges): NO MATCH - Not implemented -> 0/10 points
+Final Score: 65/100 -> MATCH to original_09

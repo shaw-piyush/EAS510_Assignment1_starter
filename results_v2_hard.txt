@@ -1,0 +1,419 @@
+Processing: original_00__contrast__compress__q55__v5.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.78 -> 19/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.66 -> 17/25 points
+Rule 3 (Template): FIRED - Match score 1.00 -> 40/40 points
+Rule 4 (Edges): FIRED - ORB: 1315/1321 geomnetric inliers -> 10/10 points
+Final Score: 86/100 -> MATCH to original_00
+
+Processing: original_00__crop_keep60__resized__q45__v6.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.70 -> 18/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.76 -> 19/25 points
+Rule 3 (Template): NO MATCH - Match score 0.12 -> 0/40 points
+Rule 4 (Edges): FIRED - ORB: 176/195 geomnetric inliers -> 9/10 points
+Final Score: 46/100 -> REJECTED
+
+Processing: original_00__crop_keep70__bright__compress__q40__v2.jpg
+Rule 1 (Metadata): NO MATCH - Size ratio 0.34 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.91 -> 22/25 points
+Rule 3 (Template): NO MATCH - Match score 0.11 -> 0/40 points
+Rule 4 (Edges): FIRED - ORB: 703/710 geomnetric inliers -> 10/10 points
+Final Score: 32/100 -> REJECTED
+
+Processing: original_00__crop_offcenter_keep75__compress__q35__v1.jpg
+Rule 1 (Metadata): NO MATCH - Size ratio 0.39 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.93 -> 23/25 points
+Rule 3 (Template): NO MATCH - Match score 0.14 -> 0/40 points
+Rule 4 (Edges): FIRED - ORB: 468/479 geomnetric inliers -> 10/10 points
+Final Score: 33/100 -> REJECTED
+
+Processing: original_00__resize_scale114__compress__q45__v3.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.73 -> 18/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.88 -> 22/25 points
+Rule 3 (Template): NO MATCH - Match score 0.38 -> 0/40 points
+Rule 4 (Edges): FIRED - ORB: 666/682 geomnetric inliers -> 10/10 points
+Final Score: 50/100 -> MATCH to original_00
+
+Processing: original_00__rotate6deg__compress__q35__v4.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.69 -> 18/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.98 -> 24/25 points
+Rule 3 (Template): NO MATCH - Match score 0.40 -> 0/40 points
+Rule 4 (Edges): FIRED - ORB: 1006/1046 geomnetric inliers -> 10/10 points
+Final Score: 52/100 -> MATCH to original_00
+
+Processing: original_01__contrast__compress__q70__v5.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.82 -> 21/25 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.43 -> 0/25 points
+Rule 3 (Template): FIRED - Match score 1.00 -> 40/40 points
+Rule 4 (Edges): FIRED - ORB: 1316/1324 geomnetric inliers -> 10/10 points
+Final Score: 71/100 -> MATCH to original_01
+
+Processing: original_01__crop_keep50__resized__q75__v6.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.91 -> 22/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.93 -> 23/25 points
+Rule 3 (Template): NO MATCH - Match score 0.10 -> 0/40 points
+Rule 4 (Edges): FIRED - ORB: 333/376 geomnetric inliers -> 9/10 points
+Final Score: 54/100 -> MATCH to original_01
+
+Processing: original_01__crop_keep70__bright__compress__q40__v2.jpg
+Rule 1 (Metadata): NO MATCH - Size ratio 0.35 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.67 -> 17/25 points
+Rule 3 (Template): NO MATCH - Match score 0.21 -> 0/40 points
+Rule 4 (Edges): FIRED - ORB: 604/678 geomnetric inliers -> 9/10 points
+Final Score: 26/100 -> REJECTED
+
+Processing: original_01__crop_offcenter_keep65__compress__q35__v1.jpg
+Rule 1 (Metadata): NO MATCH - Size ratio 0.30 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.99 -> 25/25 points
+Rule 3 (Template): NO MATCH - Match score 0.05 -> 0/40 points
+Rule 4 (Edges): FIRED - ORB: 768/800 geomnetric inliers -> 10/10 points
+Final Score: 35/100 -> REJECTED
+
+Processing: original_01__resize_scale75__compress__q30__v3.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.95 -> 23/25 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.29 -> 0/25 points
+Rule 3 (Template): FIRED - Match score 0.43 -> 17/40 points
+Rule 4 (Edges): NO MATCH - ORB: 7 good matches (need 8) -> 0/10 points
+Final Score: 40/100 -> REJECTED
+
+Processing: original_01__rotate3deg__compress__q65__v4.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.80 -> 20/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.96 -> 24/25 points
+Rule 3 (Template): FIRED - Match score 0.53 -> 21/40 points
+Rule 4 (Edges): FIRED - ORB: 912/1019 geomnetric inliers -> 9/10 points
+Final Score: 74/100 -> MATCH to original_01
+
+Processing: original_02__contrast__compress__q35__v5.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.68 -> 17/25 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.14 -> 0/25 points
+Rule 3 (Template): FIRED - Match score 1.00 -> 40/40 points
+Rule 4 (Edges): FIRED - ORB: 1156/1196 geomnetric inliers -> 10/10 points
+Final Score: 67/100 -> MATCH to original_02
+
+Processing: original_02__crop_keep60__resized__q60__v6.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.71 -> 18/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.97 -> 24/25 points
+Rule 3 (Template): NO MATCH - Match score 0.07 -> 0/40 points
+Rule 4 (Edges): FIRED - ORB: 186/297 geomnetric inliers -> 6/10 points
+Final Score: 48/100 -> REJECTED
+
+Processing: original_02__crop_keep70__bright__compress__q40__v2.jpg
+Rule 1 (Metadata): NO MATCH - Size ratio 0.35 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.95 -> 23/25 points
+Rule 3 (Template): NO MATCH - Match score 0.03 -> 0/40 points
+Rule 4 (Edges): FIRED - ORB: 307/421 geomnetric inliers -> 7/10 points
+Final Score: 30/100 -> REJECTED
+
+Processing: original_02__crop_offcenter_keep55__compress__q45__v1.jpg
+Rule 1 (Metadata): NO MATCH - Size ratio 0.23 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.94 -> 23/25 points
+Rule 3 (Template): NO MATCH - Match score 0.10 -> 0/40 points
+Rule 4 (Edges): FIRED - ORB: 200/257 geomnetric inliers -> 8/10 points
+Final Score: 31/100 -> REJECTED
+
+Processing: original_02__resize_scale85__compress__q30__v3.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.65 -> 17/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.56 -> 14/25 points
+Rule 3 (Template): NO MATCH - Match score 0.22 -> 0/40 points
+Rule 4 (Edges): FIRED - ORB: 465/581 geomnetric inliers -> 8/10 points
+Final Score: 39/100 -> REJECTED
+
+Processing: original_02__rotate3deg__compress__q35__v4.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.70 -> 18/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.99 -> 25/25 points
+Rule 3 (Template): FIRED - Match score 0.51 -> 20/40 points
+Rule 4 (Edges): FIRED - ORB: 481/614 geomnetric inliers -> 8/10 points
+Final Score: 71/100 -> MATCH to original_02
+
+Processing: original_03__contrast__compress__q70__v5.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.79 -> 20/25 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.20 -> 0/25 points
+Rule 3 (Template): FIRED - Match score 1.00 -> 40/40 points
+Rule 4 (Edges): FIRED - ORB: 1382/1382 geomnetric inliers -> 10/10 points
+Final Score: 70/100 -> MATCH to original_03
+
+Processing: original_03__crop_keep60__bright__compress__q40__v2.jpg
+Rule 1 (Metadata): NO MATCH - Size ratio 0.26 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.97 -> 24/25 points
+Rule 3 (Template): NO MATCH - Match score 0.00 -> 0/40 points
+Rule 4 (Edges): FIRED - ORB: 280/288 geomnetric inliers -> 10/10 points
+Final Score: 34/100 -> REJECTED
+
+Processing: original_03__crop_keep60__resized__q60__v6.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.74 -> 18/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.98 -> 25/25 points
+Rule 3 (Template): NO MATCH - Match score 0.00 -> 0/40 points
+Rule 4 (Edges): FIRED - ORB: 550/662 geomnetric inliers -> 8/10 points
+Final Score: 51/100 -> MATCH to original_03
+
+Processing: original_03__crop_offcenter_keep65__compress__q35__v1.jpg
+Rule 1 (Metadata): NO MATCH - Size ratio 0.28 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.95 -> 24/25 points
+Rule 3 (Template): NO MATCH - Match score 0.19 -> 0/40 points
+Rule 4 (Edges): FIRED - ORB: 826/838 geomnetric inliers -> 10/10 points
+Final Score: 34/100 -> REJECTED
+
+Processing: original_03__resize_scale75__compress__q45__v3.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.62 -> 16/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.83 -> 21/25 points
+Rule 3 (Template): NO MATCH - Match score 0.19 -> 0/40 points
+Rule 4 (Edges): FIRED - ORB: 557/668 geomnetric inliers -> 8/10 points
+Final Score: 45/100 -> REJECTED
+
+Processing: original_03__rotate-6deg__compress__q50__v4.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.71 -> 18/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.99 -> 25/25 points
+Rule 3 (Template): FIRED - Match score 0.56 -> 22/40 points
+Rule 4 (Edges): FIRED - ORB: 867/1083 geomnetric inliers -> 8/10 points
+Final Score: 73/100 -> MATCH to original_03
+
+Processing: original_04__contrast__compress__q70__v5.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.83 -> 21/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.85 -> 22/25 points
+Rule 3 (Template): FIRED - Match score 1.00 -> 40/40 points
+Rule 4 (Edges): FIRED - ORB: 1357/1361 geomnetric inliers -> 10/10 points
+Final Score: 93/100 -> MATCH to original_04
+
+Processing: original_04__crop_keep50__resized__q45__v6.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.69 -> 18/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.99 -> 25/25 points
+Rule 3 (Template): NO MATCH - Match score 0.11 -> 0/40 points
+Rule 4 (Edges): FIRED - ORB: 82/135 geomnetric inliers -> 6/10 points
+Final Score: 49/100 -> REJECTED
+
+Processing: original_04__crop_keep60__bright__compress__q65__v2.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.77 -> 19/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.62 -> 16/25 points
+Rule 3 (Template): NO MATCH - Match score 0.04 -> 0/40 points
+Rule 4 (Edges): NO MATCH - ORB: 4 good matches (need 8) -> 0/10 points
+Final Score: 35/100 -> REJECTED
+
+Processing: original_04__crop_offcenter_keep75__compress__q35__v1.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.68 -> 17/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.76 -> 19/25 points
+Rule 3 (Template): NO MATCH - Match score 0.14 -> 0/40 points
+Rule 4 (Edges): NO MATCH - ORB: 8/31 geomnetric inliers -> 0/10 points
+Final Score: 36/100 -> REJECTED
+
+Processing: original_04__resize_scale85__compress__q60__v3.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.73 -> 18/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.99 -> 25/25 points
+Rule 3 (Template): NO MATCH - Match score 0.18 -> 0/40 points
+Rule 4 (Edges): FIRED - ORB: 674/791 geomnetric inliers -> 9/10 points
+Final Score: 52/100 -> MATCH to original_04
+
+Processing: original_04__rotate-4deg__compress__q50__v4.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.74 -> 18/25 points
+Rule 2 (Histogram): FIRED - Correlation 1.00 -> 25/25 points
+Rule 3 (Template): FIRED - Match score 0.44 -> 18/40 points
+Rule 4 (Edges): FIRED - ORB: 865/884 geomnetric inliers -> 10/10 points
+Final Score: 71/100 -> MATCH to original_04
+
+Processing: original_05__contrast__compress__q35__v5.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.64 -> 16/25 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.09 -> 0/25 points
+Rule 3 (Template): FIRED - Match score 1.00 -> 40/40 points
+Rule 4 (Edges): FIRED - ORB: 1134/1137 geomnetric inliers -> 10/10 points
+Final Score: 66/100 -> MATCH to original_05
+
+Processing: original_05__crop_keep50__resized__q60__v6.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.77 -> 19/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.96 -> 24/25 points
+Rule 3 (Template): NO MATCH - Match score 0.04 -> 0/40 points
+Rule 4 (Edges): FIRED - ORB: 372/436 geomnetric inliers -> 9/10 points
+Final Score: 52/100 -> MATCH to original_05
+
+Processing: original_05__crop_keep70__bright__compress__q65__v2.jpg
+Rule 1 (Metadata): NO MATCH - Size ratio 0.38 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.85 -> 22/25 points
+Rule 3 (Template): NO MATCH - Match score 0.07 -> 0/40 points
+Rule 4 (Edges): FIRED - ORB: 1072/1078 geomnetric inliers -> 10/10 points
+Final Score: 32/100 -> REJECTED
+
+Processing: original_05__crop_offcenter_keep75__compress__q25__v1.jpg
+Rule 1 (Metadata): NO MATCH - Size ratio 0.38 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.99 -> 25/25 points
+Rule 3 (Template): NO MATCH - Match score 0.00 -> 0/40 points
+Rule 4 (Edges): FIRED - ORB: 859/934 geomnetric inliers -> 9/10 points
+Final Score: 34/100 -> REJECTED
+
+Processing: original_05__resize_scale114__compress__q60__v3.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.77 -> 19/25 points
+Rule 2 (Histogram): FIRED - Correlation 1.00 -> 25/25 points
+Rule 3 (Template): NO MATCH - Match score 0.28 -> 0/40 points
+Rule 4 (Edges): FIRED - ORB: 770/813 geomnetric inliers -> 9/10 points
+Final Score: 53/100 -> MATCH to original_05
+
+Processing: original_05__rotate-3deg__compress__q65__v4.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.81 -> 20/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.99 -> 25/25 points
+Rule 3 (Template): FIRED - Match score 0.54 -> 22/40 points
+Rule 4 (Edges): FIRED - ORB: 934/1120 geomnetric inliers -> 8/10 points
+Final Score: 75/100 -> MATCH to original_05
+
+Processing: original_06__contrast__compress__q35__v5.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.72 -> 18/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.83 -> 21/25 points
+Rule 3 (Template): FIRED - Match score 1.00 -> 40/40 points
+Rule 4 (Edges): FIRED - ORB: 1162/1166 geomnetric inliers -> 10/10 points
+Final Score: 89/100 -> MATCH to original_06
+
+Processing: original_06__crop_keep50__resized__q45__v6.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.65 -> 17/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.98 -> 24/25 points
+Rule 3 (Template): NO MATCH - Match score 0.16 -> 0/40 points
+Rule 4 (Edges): FIRED - ORB: 430/497 geomnetric inliers -> 9/10 points
+Final Score: 50/100 -> MATCH to original_06
+
+Processing: original_06__crop_keep70__bright__compress__q55__v2.jpg
+Rule 1 (Metadata): NO MATCH - Size ratio 0.33 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.95 -> 23/25 points
+Rule 3 (Template): NO MATCH - Match score 0.26 -> 0/40 points
+Rule 4 (Edges): FIRED - ORB: 615/694 geomnetric inliers -> 9/10 points
+Final Score: 32/100 -> REJECTED
+
+Processing: original_06__crop_offcenter_keep75__compress__q25__v1.jpg
+Rule 1 (Metadata): NO MATCH - Size ratio 0.35 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.98 -> 25/25 points
+Rule 3 (Template): NO MATCH - Match score 0.21 -> 0/40 points
+Rule 4 (Edges): FIRED - ORB: 804/881 geomnetric inliers -> 9/10 points
+Final Score: 34/100 -> REJECTED
+
+Processing: original_06__resize_scale85__compress__q45__v3.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.67 -> 17/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.87 -> 22/25 points
+Rule 3 (Template): NO MATCH - Match score 0.29 -> 0/40 points
+Rule 4 (Edges): FIRED - ORB: 827/959 geomnetric inliers -> 9/10 points
+Final Score: 48/100 -> REJECTED
+
+Processing: original_06__rotate-6deg__compress__q35__v4.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.66 -> 17/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.97 -> 24/25 points
+Rule 3 (Template): FIRED - Match score 0.42 -> 17/40 points
+Rule 4 (Edges): FIRED - ORB: 751/924 geomnetric inliers -> 8/10 points
+Final Score: 66/100 -> MATCH to original_06
+
+Processing: original_07__contrast__compress__q70__v5.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.79 -> 20/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.70 -> 18/25 points
+Rule 3 (Template): FIRED - Match score 1.00 -> 40/40 points
+Rule 4 (Edges): FIRED - ORB: 1398/1402 geomnetric inliers -> 10/10 points
+Final Score: 88/100 -> MATCH to original_07
+
+Processing: original_07__crop_keep60__bright__compress__q55__v2.jpg
+Rule 1 (Metadata): NO MATCH - Size ratio 0.28 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.62 -> 16/25 points
+Rule 3 (Template): NO MATCH - Match score 0.11 -> 0/40 points
+Rule 4 (Edges): FIRED - ORB: 1025/1044 geomnetric inliers -> 10/10 points
+Final Score: 26/100 -> REJECTED
+
+Processing: original_07__crop_keep60__resized__q60__v6.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.74 -> 18/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.91 -> 22/25 points
+Rule 3 (Template): NO MATCH - Match score 0.24 -> 0/40 points
+Rule 4 (Edges): FIRED - ORB: 475/609 geomnetric inliers -> 8/10 points
+Final Score: 48/100 -> REJECTED
+
+Processing: original_07__crop_offcenter_keep55__compress__q35__v1.jpg
+Rule 1 (Metadata): NO MATCH - Size ratio 0.20 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.92 -> 22/25 points
+Rule 3 (Template): NO MATCH - Match score 0.14 -> 0/40 points
+Rule 4 (Edges): FIRED - ORB: 459/497 geomnetric inliers -> 9/10 points
+Final Score: 31/100 -> REJECTED
+
+Processing: original_07__resize_scale114__compress__q45__v3.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.69 -> 18/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.97 -> 24/25 points
+Rule 3 (Template): FIRED - Match score 0.40 -> 16/40 points
+Rule 4 (Edges): FIRED - ORB: 764/884 geomnetric inliers -> 9/10 points
+Final Score: 67/100 -> MATCH to original_07
+
+Processing: original_07__rotate-3deg__compress__q65__v4.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.78 -> 20/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.99 -> 25/25 points
+Rule 3 (Template): FIRED - Match score 0.54 -> 22/40 points
+Rule 4 (Edges): FIRED - ORB: 970/1102 geomnetric inliers -> 9/10 points
+Final Score: 76/100 -> MATCH to original_07
+
+Processing: original_08__contrast__compress__q35__v5.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.68 -> 17/25 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.19 -> 0/25 points
+Rule 3 (Template): FIRED - Match score 1.00 -> 40/40 points
+Rule 4 (Edges): FIRED - ORB: 1230/1239 geomnetric inliers -> 10/10 points
+Final Score: 67/100 -> MATCH to original_08
+
+Processing: original_08__crop_keep60__bright__compress__q55__v2.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.86 -> 22/25 points
+Rule 2 (Histogram): NO MATCH - Correlation 0.00 -> 0/25 points
+Rule 3 (Template): NO MATCH - Match score 0.10 -> 0/40 points
+Rule 4 (Edges): NO MATCH - ORB: 6 good matches (need 8) -> 0/10 points
+Final Score: 22/100 -> REJECTED
+
+Processing: original_08__crop_keep60__resized__q45__v6.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.64 -> 16/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.93 -> 23/25 points
+Rule 3 (Template): NO MATCH - Match score 0.11 -> 0/40 points
+Rule 4 (Edges): FIRED - ORB: 257/345 geomnetric inliers -> 7/10 points
+Final Score: 46/100 -> REJECTED
+
+Processing: original_08__crop_offcenter_keep65__compress__q35__v1.jpg
+Rule 1 (Metadata): NO MATCH - Size ratio 0.30 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.92 -> 22/25 points
+Rule 3 (Template): NO MATCH - Match score 0.10 -> 0/40 points
+Rule 4 (Edges): FIRED - ORB: 674/691 geomnetric inliers -> 10/10 points
+Final Score: 32/100 -> REJECTED
+
+Processing: original_08__resize_scale114__compress__q30__v3.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.70 -> 18/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.94 -> 23/25 points
+Rule 3 (Template): FIRED - Match score 0.46 -> 18/40 points
+Rule 4 (Edges): FIRED - ORB: 859/888 geomnetric inliers -> 10/10 points
+Final Score: 69/100 -> MATCH to original_08
+
+Processing: original_08__rotate3deg__compress__q50__v4.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.77 -> 19/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.99 -> 25/25 points
+Rule 3 (Template): FIRED - Match score 0.61 -> 24/40 points
+Rule 4 (Edges): FIRED - ORB: 1032/1055 geomnetric inliers -> 10/10 points
+Final Score: 78/100 -> MATCH to original_08
+
+Processing: original_09__contrast__compress__q35__v5.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.69 -> 18/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.79 -> 20/25 points
+Rule 3 (Template): FIRED - Match score 0.99 -> 40/40 points
+Rule 4 (Edges): FIRED - ORB: 674/682 geomnetric inliers -> 10/10 points
+Final Score: 88/100 -> MATCH to original_09
+
+Processing: original_09__crop_keep50__resized__q75__v6.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.77 -> 19/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.67 -> 17/25 points
+Rule 3 (Template): NO MATCH - Match score 0.00 -> 0/40 points
+Rule 4 (Edges): FIRED - ORB: 33/55 geomnetric inliers -> 6/10 points
+Final Score: 42/100 -> REJECTED
+
+Processing: original_09__crop_keep60__bright__compress__q40__v2.jpg
+Rule 1 (Metadata): NO MATCH - Size ratio 0.04 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.54 -> 13/25 points
+Rule 3 (Template): NO MATCH - Match score 0.02 -> 0/40 points
+Rule 4 (Edges): NO MATCH - ORB: 4 good matches (need 8) -> 0/10 points
+Final Score: 13/100 -> REJECTED
+
+Processing: original_09__crop_offcenter_keep55__compress__q25__v1.jpg
+Rule 1 (Metadata): NO MATCH - Size ratio 0.18 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.72 -> 18/25 points
+Rule 3 (Template): FIRED - Match score 0.62 -> 25/40 points
+Rule 4 (Edges): FIRED - ORB: 81/98 geomnetric inliers -> 8/10 points
+Final Score: 51/100 -> MATCH to original_09
+
+Processing: original_09__resize_scale75__compress__q30__v3.jpg
+Rule 1 (Metadata): NO MATCH - Size ratio 0.57 -> 0/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.57 -> 14/25 points
+Rule 3 (Template): FIRED - Match score 0.60 -> 24/40 points
+Rule 4 (Edges): FIRED - ORB: 276/355 geomnetric inliers -> 8/10 points
+Final Score: 46/100 -> REJECTED
+
+Processing: original_09__rotate-3deg__compress__q65__v4.jpg
+Rule 1 (Metadata): FIRED - Size ratio 0.77 -> 19/25 points
+Rule 2 (Histogram): FIRED - Correlation 0.99 -> 25/25 points
+Rule 3 (Template): FIRED - Match score 0.86 -> 34/40 points
+Rule 4 (Edges): FIRED - ORB: 751/831 geomnetric inliers -> 9/10 points
+Final Score: 87/100 -> MATCH to original_09

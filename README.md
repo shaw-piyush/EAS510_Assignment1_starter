@@ -105,7 +105,7 @@ The common weakness was that the original rules were sensitive to transformation
 
 This motivated the addition of a feature-based rule capable of identifying local visual similarities despite geometric modifications.
 
-## Design decision for V2: what Rule 4 is and why you chose it
+## Design decision for V2:
 
 To address the limitations of V1, I implemented **ORB (Oriented FAST and Rotated BRIEF) feature matching with RANSAC geometric verification** as Rule 4.
 
